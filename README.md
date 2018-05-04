@@ -11,6 +11,8 @@
 
 ###### This it is an exemple how to make tableview placeholders. Customize views like you want and use it.
 
+###### Gif
+
 Here is an exemple code how to use it: 
 ```swift
 class ViewController: UIViewController {
