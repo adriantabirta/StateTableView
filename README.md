@@ -13,6 +13,14 @@
 
 ###### Gif
 
+![Alt Text](https://media.giphy.com/media/ulKNZPl7O5bHj2Gm9Y/giphy.gif)
+
+## Getting Started
+
+Is easy to implement, just drag and drom into your project folders: **Views** and **Extensions**.
+Download repository and run on the simulator. Application simulate network requests with different responses.
+Refresh for simulate requests.
+
 Here is an exemple code how to use it: 
 ```swift
 class ViewController: UIViewController {
